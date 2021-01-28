@@ -1,6 +1,6 @@
 
 # Introduction:
-Measuring the temperature according the previous data is more important to do. Linear regression is one of those Machine Learning (ML) process algorithm. Linear regression model has been performed a huge role to predict the temperature.
+Measuring the temperature according the previous data is more important to do. Linear regression is one of those Machine Learning process algorithm. Linear regression model has been performed a huge role to predict the temperature.
 
 # Steps:
 Run "WeatherPredictionUpdated.ipynb" file by using "weather.csv" as dataset.
