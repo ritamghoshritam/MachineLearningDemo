@@ -3,7 +3,7 @@
 Measuring the temperature according the previous data is more important to do. Linear regression is one of those Machine Learning process algorithm. Linear regression model has been performed a huge role to predict the temperature.
 
 # Steps:
-Run "WeatherPredictionUpdated.ipynb" file by using "weather.csv" as dataset.
+Run "WeatherPredictionUpdated.ipynb" file by using "weather.csv" as dataset in Colab.
 
 # Conclusion:
 In this experiment we observe the machine learning algorithms and training using datasets.
